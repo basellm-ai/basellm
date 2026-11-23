@@ -2,9 +2,7 @@
 
 **BaseLLM** is a self-hosted AI gateway and control plane for enterprises, made by Base Interactive (Istanbul). All of an organization's LLM traffic goes through one OpenAI-compatible endpoint that runs on the organization's own infrastructure.
 
-Website: https://llm.baseinteractive.com.tr
-Docs: https://llm.baseinteractive.com.tr/en/docs/overview
-30-day evaluation: https://llm.baseinteractive.com.tr/en/evaluation
+Website: https://llm.baseinteractive.com.tr · Docs: https://llm.baseinteractive.com.tr/en/docs/overview · 30-day evaluation: https://llm.baseinteractive.com.tr/en/evaluation
 
 > Name note: this BaseLLM is an enterprise AI gateway product. It is not the `BaseLLM` base class in LangChain or LlamaIndex.
 
